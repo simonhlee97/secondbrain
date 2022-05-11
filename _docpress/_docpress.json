@@ -1,0 +1,126 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Simon's Public Brain",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "Introduction",
+        "sections": [
+          {
+            "title": "Start Here",
+            "source": "docs/intro/starthere.md",
+            "url": "intro/starthere.html",
+            "slug": "introstarthere"
+          },
+          {
+            "title": "Inspired By",
+            "source": "docs/intro/inspired.md",
+            "url": "intro/inspired.html",
+            "slug": "introinspired"
+          }
+        ]
+      },
+      {
+        "title": "Projects",
+        "sections": [
+          {
+            "title": "coming soon",
+            "source": "docs/projects/comingsoon.md",
+            "url": "projects/comingsoon.html",
+            "slug": "projectscomingsoon"
+          }
+        ]
+      },
+      {
+        "title": "Areas of Responsibility",
+        "sections": [
+          {
+            "title": "coming soon",
+            "source": "docs/areas/comingsoon.md",
+            "url": "areas/comingsoon.html",
+            "slug": "areascomingsoon"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "sections": [
+          {
+            "title": "coming soon",
+            "source": "docs/resources/comingsoon.md",
+            "url": "resources/comingsoon.html",
+            "slug": "resourcescomingsoon"
+          }
+        ]
+      },
+      {
+        "title": "Archives",
+        "sections": [
+          {
+            "title": "coming soon",
+            "source": "docs/archives/comingsoon.md",
+            "url": "archives/comingsoon.html",
+            "slug": "archivescomingsoon"
+          }
+        ]
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Simon's Public Brain",
+      "pageTitle": "Simon's Public Brain",
+      "slug": "index"
+    },
+    "intro/starthere.html": {
+      "source": "docs/intro/starthere.md",
+      "title": "Start Here - Simon's Public Brain",
+      "pageTitle": "Start Here",
+      "slug": "introstarthere"
+    },
+    "intro/inspired.html": {
+      "source": "docs/intro/inspired.md",
+      "title": "Inspired By - Simon's Public Brain",
+      "pageTitle": "Inspired By",
+      "slug": "introinspired"
+    },
+    "projects/comingsoon.html": {
+      "source": "docs/projects/comingsoon.md",
+      "title": "coming soon - Simon's Public Brain",
+      "pageTitle": "coming soon",
+      "slug": "projectscomingsoon"
+    },
+    "areas/comingsoon.html": {
+      "source": "docs/areas/comingsoon.md",
+      "title": "coming soon - Simon's Public Brain",
+      "pageTitle": "coming soon",
+      "slug": "areascomingsoon"
+    },
+    "resources/comingsoon.html": {
+      "source": "docs/resources/comingsoon.md",
+      "title": "coming soon - Simon's Public Brain",
+      "pageTitle": "coming soon",
+      "slug": "resourcescomingsoon"
+    },
+    "archives/comingsoon.html": {
+      "source": "docs/archives/comingsoon.md",
+      "title": "coming soon - Simon's Public Brain",
+      "pageTitle": "coming soon",
+      "slug": "archivescomingsoon"
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "docs/intro/starthere.md": "intro/starthere.html",
+    "docs/intro/inspired.md": "intro/inspired.html",
+    "docs/projects/comingsoon.md": "projects/comingsoon.html",
+    "docs/areas/comingsoon.md": "areas/comingsoon.html",
+    "docs/resources/comingsoon.md": "resources/comingsoon.html",
+    "docs/archives/comingsoon.md": "archives/comingsoon.html"
+  }
+}
